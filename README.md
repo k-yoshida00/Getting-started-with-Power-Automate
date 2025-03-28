@@ -5,7 +5,7 @@ Power Automateを始めるための、チュートリアルです。Power Automa
 ### クラウドフロー
 - [今回作成するクラウドフロー](./c-00-flowimage.md)
 - [フロー作成画面を開く](./c-01-access-powerautomate.md)
-- [トリガーを設定する](./c-02-trigge.md)
+- [トリガーを設定する](./c-02-trigger.md)
 - [添付ファイルをOneDriveに保存する](./c-03-attachment.md)
 - [Teamsに通知する](./c-04-teams.md)
 - [テストする](./c-05-test.md)
